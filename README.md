@@ -8,7 +8,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]()
 
 
-![Clayton GitHub stats](https://github-readme-stats.vercel.app/api?username=Clayton1-tech&show_icons=true&theme=dracula)
+![Clayton GitHub stats](https://github-readme-stats.vercel.app/api?username=Clayton10-tech&show_icons=true&theme=dracula)
 
 ## Tecnologias que uso no meu dia-a-dia
 
